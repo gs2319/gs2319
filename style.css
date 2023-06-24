@@ -1,8 +1,9 @@
 h1{
-    
+        font-size: 50px;
         color: cyan;
+        border-radius: 20px;
         text-align: center;
-        font-size: 100px;
+        width: fit-content;
      
     }
 
